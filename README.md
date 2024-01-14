@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @awodesigns-github
-- 👀 I’m interested in Software development and Systems integration
+- 👀 I’m passionate about Software development, Systems design and Integration
 - 🌱 I’m currently learning the PHP Laravel framework
 - 💞️ I’m looking to collaborate on Laravel projects
 - 📫 How to reach me is through: email --> awo.designs1@gmail.com
